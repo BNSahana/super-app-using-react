@@ -82,3 +82,8 @@
     - [ ]  push your code to github with message “add movies api”
     - [ ]  toggle between browse entertainment page and homepage
     - [ ]  push your code to github with message “added toggle between browse and homepage”
+  ![Uploading Screenshot (52).png…]()
+![Screenshot (53)](https://github.com/BNSahana/super-app-using-react/assets/93673368/a5a4bdf9-0d31-4646-9128-47c7468e871e)
+![Screenshot (54)](https://github.com/BNSahana/super-app-using-react/assets/93673368/828ee699-6ed3-4fd6-b42d-3a80e738e2a0)
+![Screenshot (55)](https://github.com/BNSahana/super-app-using-react/assets/93673368/ed496c6f-91f8-46d2-8aef-16399d6abecd)
+
