@@ -16,6 +16,8 @@
     - [ ]  After the registration data is filled, you need to save the data in localstorage
 - [ ]  push your code to GitHub with the message “added registration page”
 
+![Screenshot (52)](https://github.com/BNSahana/super-app-using-react/assets/93673368/2742acb2-f3f4-478f-8dc5-1d9f3b03214c)
+
 ## Checklist-2
 
 - [ ]  before you get started here now you need to define two routes for your app
@@ -34,6 +36,8 @@
 
 - [ ]  make sure that you are able only go to next page once you select the category
 - [ ]  push your code to github with message “added category page”
+
+![Screenshot (53)](https://github.com/BNSahana/super-app-using-react/assets/93673368/a5a4bdf9-0d31-4646-9128-47c7468e871e)
 
 ## Checklist-3
 
@@ -67,6 +71,8 @@
         - [ ]  user can set a timer
         - [ ]  play a tune on timer completion
     - [ ]  push your code to github with message “added timer card”
+     
+  ![Screenshot (54)](https://github.com/BNSahana/super-app-using-react/assets/93673368/828ee699-6ed3-4fd6-b42d-3a80e738e2a0)
     
     ## Checklist-5
     
@@ -82,8 +88,6 @@
     - [ ]  push your code to github with message “add movies api”
     - [ ]  toggle between browse entertainment page and homepage
     - [ ]  push your code to github with message “added toggle between browse and homepage”
-  ![Uploading Screenshot (52).png…]()
-![Screenshot (53)](https://github.com/BNSahana/super-app-using-react/assets/93673368/a5a4bdf9-0d31-4646-9128-47c7468e871e)
-![Screenshot (54)](https://github.com/BNSahana/super-app-using-react/assets/93673368/828ee699-6ed3-4fd6-b42d-3a80e738e2a0)
+
 ![Screenshot (55)](https://github.com/BNSahana/super-app-using-react/assets/93673368/ed496c6f-91f8-46d2-8aef-16399d6abecd)
 
